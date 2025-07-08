@@ -1,4 +1,3 @@
-
 # <img src="https://github.com/user-attachments/assets/482c5290-cfb9-43de-8b27-34231914a92a" style="height: 1em; vertical-align: middle;"> Wedit
 
 ![표지](https://github.com/user-attachments/assets/38077619-6e54-4ef4-b17f-6facb597ef09)
@@ -86,10 +85,10 @@
     <td align="center"><img src="https://github.com/KyunghwanChoi.png" width="160"></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ehs208">김동윤</td>
-    <td align="center"><a href="https://github.com/seokjun01">김동섭</td>
-    <td align="center"><a href="https://github.com/dyk-im">이슬기</td>
-    <td align="center"><a href="https://github.com/jj0526">최경환</td>
+    <td align="center"><a href="https://github.com/dyk-im">김동윤</td>
+    <td align="center"><a href="https://github.com/dogsub">김동섭</td>
+    <td align="center"><a href="https://github.com/leeseulgi0208">이슬기</td>
+    <td align="center"><a href="https://github.com/KyunghwanChoi">최경환</td>
   </tr>
   <tr>
     <td align="center">인프라/정보조회</td>
